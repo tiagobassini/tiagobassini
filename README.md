@@ -1,21 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I am Tiago</h1>
+<p>
+  I am a  Android and Java developer. I like to work in group and learn new things.
+</p>
 
-<!--
-**tiagobassini/tiagobassini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">My Profile</h2>
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/tiago-bassini-roriz-285a479a/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
-<a href="https://github.com/tiagobassini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobassini&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobassini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/tiagobassini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobassini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobassini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
